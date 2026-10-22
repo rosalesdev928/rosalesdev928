@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" alt="Perfil de José Leonardo Rosales, desarrollador Full Stack" width="900">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Jos%C3%A9+Leonardo+%E2%80%94+Full+Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+NestJS+%C2%B7+React;APIs+REST+%C2%B7+AWS+%C2%B7+Bases+de+datos+SQL;Lima%2C+Per%C3%BA+%E2%80%94+abierto+a+oportunidades+junior" alt="Texto animado con mi perfil">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=6EE7B7&center=true&vCenter=true&width=900&lines=Jos%C3%A9+Leonardo+%E2%80%94+Full+Stack+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+NestJS+%C2%B7+React;APIs+REST+%C2%B7+AWS+%C2%B7+Bases+de+datos+SQL;Lima%2C+Per%C3%BA+%E2%80%94+abierto+a+oportunidades+junior" alt="Texto animado con mi perfil">
 
-<img src="https://komarev.com/ghpvc/?username=rosalesdev928&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=rosalesdev928&color=10b981&style=flat-square&label=profile+views" alt="profile views">
 
 </div>
 
@@ -42,9 +42,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-leonardo-rosales-gutierrez)
-[![Web](https://img.shields.io/badge/rosalesdev.com-f78ca0?style=for-the-badge&logoColor=1a1a22)](https://rosalesdev.com)
-[![Gmail](https://img.shields.io/badge/Gmail-c7a4f5?style=for-the-badge&logo=gmail&logoColor=1a1a22)](mailto:leonardo1234rag@gmail.com)
+[![Web](https://img.shields.io/badge/rosalesdev.com-10b981?style=for-the-badge&logoColor=031c12)](https://rosalesdev.com)
+[![Gmail](https://img.shields.io/badge/Gmail-12372b?style=for-the-badge&logo=gmail&logoColor=a7f3d0)](mailto:leonardo1234rag@gmail.com)
 
-Hecho con 💖 y mucho café desde Lima, Perú · @rosalesdev928
+Hecho con 💚 y mucho café desde Lima, Perú · @rosalesdev928
 
 </div>

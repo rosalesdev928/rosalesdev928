@@ -21,7 +21,7 @@ FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"  # cambia si e
 W, H = 200, 227          # resolución de la rejilla de puntos
 PANEL_X, PANEL_Y, PANEL_W, PANEL_H = 40, 90, 308, 196
 CYCLE = 12               # segundos que dura el ciclo completo
-PINK, DIM = "#F78CA0", "#5B6F91"
+GREEN, DIM = "#6EE7B7", "#2F5A45"
 GAMMA = 1.6              # súbelo (2.0) para menos puntos de fondo, bájalo (1.0) para más detalle
 
 def load_frame(spec):
@@ -69,7 +69,7 @@ def frame_svg(idx, pts, n):
     for x, y in pts:
         (dim if rnd.random() < 0.15 else main).append(f"M{x} {y}h0")
     return (f'<g class="fr" style="animation-delay:{idx * CYCLE / n:.2f}s">'
-            f'<path d="{"".join(main)}" stroke="{PINK}"/>'
+            f'<path d="{"".join(main)}" stroke="{GREEN}"/>'
             f'<path d="{"".join(dim)}" stroke="{DIM}"/></g>')
 
 def main(specs):
